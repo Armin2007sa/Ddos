@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Coded by L330n123
+#Coded arminsa
 #########################################
 #         Just a little change          #
 #                           -- armin.sa #
